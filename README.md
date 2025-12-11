@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey there! I'm Yash Gupta
 
-<!--
-**yash-01-sketch/yash-01-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me  
+- 🔥 BTech 2nd year student (EE @ NIT Agartala)  
+- ⭐ Passionate about **C++**, **DSA**, and **problem-solving**  
+- 🚧 Currently learning **Web Dev** + experimenting with **AI/ML**  
+- 🧠 Interested in building smart, real-world applications  
 
-Here are some ideas to get you started:
+### 📚 What I'm Doing Right Now  
+- 🏹 Practicing **DSA in C++** (arrays → binary search → stacks → DP...)  
+- 🛠 Working on projects like **EduSentinel: Smart Bus Monitoring System**  
+- 🌱 Learning how to make clean and professional GitHub repos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Looking to Collaborate On  
+- C++ / DSA based projects  
+- Web development projects  
+- AI/ML beginner-friendly projects  
+
+### 📫 Contact Me  
+**yash.princeg28@gmail.com**
