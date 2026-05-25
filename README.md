@@ -14,7 +14,6 @@
 - 🎓 B.Tech in Electrical Engineering at **NIT Agartala** (CGPA: **8.95**)
 - 💡 Enjoy building things — from IoT systems to web apps
 - 🔍 Currently exploring **Web Development** and **DSA**
-- 📍 Kanpur, India
 
 ---
 
