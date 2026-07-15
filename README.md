@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yash Gupta 👋</h1>
+<!-- <h1 align="center">Hi, I'm Yash Gupta 👋</h1>
 <h3 align="center">Electrical Engineering Undergrad @ NIT Agartala</h3>
 
 <p align="center">
@@ -56,4 +56,68 @@ Two-player browser game built with HTML, CSS, and vanilla JavaScript.
 
 ### 📫 Reach Me
 
-**yash.princeg28@gmail.com**
+**yash.princeg28@gmail.com** -->
+<h1 align="center">Hi there, I'm Yash 👋</h1>
+<h3 align="center">Electrical Engineering Undergrad @ NIT Agartala | Aspiring Software Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=500&lines=Building+with+C%2B%2B+%26+JavaScript;Solving+DSA+Problems;Learning+Frontend+Development;Open+to+SWE+Internships!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Electrical Engineering undergraduate at **NIT Agartala** (CGPA: 8.90)
+- 💻 Strong foundations in **Data Structures & Algorithms**, **C++**, and **Frontend Development**
+- 🧩 Solved **300+ coding problems** across various platforms
+- 🌐 Building projects with **HTML, CSS, Tailwind CSS, Bootstrap, and JavaScript**
+- 🔭 Currently exploring **React** and backend fundamentals
+- 🎯 Actively seeking **Software Engineering Internship** opportunities
+- ⚡ Fun fact: I also lead a robotics team working with Arduino & ESP32!
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,bootstrap,git,github,vscode" alt="tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 **[Project Name 1](https://github.com/YOUR_USERNAME/repo-name)** — One-line description of what it does and tech used.
+- 🔗 **[Project Name 2](https://github.com/YOUR_USERNAME/repo-name)** — One-line description of what it does and tech used.
+- 🔗 **[Project Name 3](https://github.com/YOUR_USERNAME/repo-name)** — One-line description of what it does and tech used.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>⭐ Feel free to explore my repositories and reach out for collaborations!</i></p>
