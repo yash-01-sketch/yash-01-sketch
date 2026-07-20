@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,tailwind,bootstrap,git,github,vscode,MySQl" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,tailwind,bootstrap,git,github,vscode,mysql" alt="tech stack" />
 </p>
 
 **IoT & Embedded:** `Arduino` `ESP32` `Embedded C` `GPS` `GSM` `I2C`
