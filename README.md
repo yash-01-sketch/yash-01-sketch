@@ -35,14 +35,6 @@
 
 ---
 
-### 🚀 Projects
-
-🎧 **[Spotify Clone](https://github.com/yash-01-sketch)**
-A responsive Spotify UI clone built with HTML, CSS, and JavaScript, replicating music player features and layout.
-[▶ Live Demo](https://belistner.netlify.app/)
-
----
-
 ### 🏆 Achievements
 
 - 🥇 Grand Finalist — **Arjuna 2.0 Hackathon**, NIT Agartala (Top teams among 100+)
