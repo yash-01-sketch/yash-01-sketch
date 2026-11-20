@@ -16,8 +16,13 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,tailwind,bootstrap,mysql,git,github,vscode,vite,netlify,render,ChatGPT" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,tailwind,bootstrap,mysql,git,github,vscode,vite,netlify" alt="Tech Stack" />
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
+
 
 **IoT & Embedded:** `Arduino` `ESP32` `Embedded C` `GPS` `GSM` `I2C`
 
